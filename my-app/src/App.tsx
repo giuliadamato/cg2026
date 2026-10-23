@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Benvenuti sul nostro sito</h1>
+        <h1>GIULIA GINNI E GIO</h1>
         <p>Progetto realizzato dal gruppo</p>
       </header>
 
